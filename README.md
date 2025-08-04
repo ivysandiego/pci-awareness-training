@@ -2,6 +2,11 @@
 
 ## Project Overview
 
+## 🔗 View the Training
+
+[Click here to view the interactive PCI-DSS Awareness Training](https://view.genially.com/67e0550f8760193b2b0d35d5)
+
+![Training Screenshot](./Training-Overview.jpg)
 
 
 This security awareness training was developed as part of a group project in a cybersecurity project management course. The scenario focused on a **fictional small convenience store** aiming to improve employee awareness around **PCI-DSS compliance**.
@@ -32,3 +37,16 @@ Given the fictional client's limited budget, the training was designed to be **m
 
 > **Note:** All content, branding, and examples are fictional and used for educational purposes only.
 
+## What I Learned
+
+This project gave me hands-on experience with:
+
+- Applying PCI-DSS controls in a real-world context
+- Designing training that’s clear, role-specific, and accessible
+- Using Genially to build modular, flexible awareness content
+- Managing a project from objective to delivery, including:
+  - Defining scope and soliciting training requirements
+  - Identifying and mitigating project risks
+  - Coordinating stakeholder input and feedback
+  - Using project scheduling tools (e.g., TeamGantt)
+  - Delivering a client-facing presentation of the final product
